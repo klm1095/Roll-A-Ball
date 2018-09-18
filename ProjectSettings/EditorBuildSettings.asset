@@ -7,5 +7,5 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/MiniGame.unity
-    guid: 319c280a7f106124382fc0e0399fcb96
+    guid: 39ba2f1f1a47a3547b89daeb55a3c391
   m_configObjects: {}
