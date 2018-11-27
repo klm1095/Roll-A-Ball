@@ -1,6 +1,6 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/Klm1095/Desktop/Roll a Ball 2/Builds/Roll a Ball 2.exe
+C:/Users/Klm1095/Documents/GitHub/Roll-a-Ball/Builds/Roll a Ball 2.exe
 SceneListBegin?
 Assets/Scenes/MiniGame.unity
 SceneListEnd?
